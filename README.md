@@ -26,7 +26,7 @@ to your Kali Linux virtual machine.
    cd Lab1
    ```
 
-Verify that you see a `content/` directory.
+Verify that you see a `Content/` directory.
 
 ### Reflection Questions
 - Why is using a version control system like Git useful in cybersecurity operations?
